@@ -39,7 +39,6 @@ graph TD
 │   ├── gateway             # Entry point API Gateway server
 │   └── services
 │       └── user            # Entry point gRPC User Service
-├── gateway                 # Folder kosong untuk pengembangan gateway tambahan
 ├── internal
 │   ├── config              # Pemuat variabel lingkungan (.env)
 │   ├── logger              # Logger terstruktur menggunakan Zap
