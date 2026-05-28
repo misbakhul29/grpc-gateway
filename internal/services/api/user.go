@@ -24,8 +24,8 @@ func (s *Server) GetUser(
 		return &pb.UserResponse{
 			User: &pb.User{
 				Id:    req.Id,
-				Name:  "Rakhasa",
-				Email: "rakhasa@mail.com",
+				Name:  "Misbakhul Munir",
+				Email: "misbakhul2904@gmail.com",
 			},
 		}, nil
 	}
